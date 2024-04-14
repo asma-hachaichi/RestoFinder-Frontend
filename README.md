@@ -16,6 +16,6 @@ The backend of this project is developed separately to maintain a clear separati
 - Zeineb Hachaichi
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.txt) file for details.
 
 Thank you for visiting this repository!
